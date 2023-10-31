@@ -1,0 +1,6 @@
+twilio==8.2.0
+openai==0.27.2
+snowflake-connector-python==3.3.0
+Django==4.1.7
+django-snowflake==4.1b1
+djangorestframework==3.14.0
